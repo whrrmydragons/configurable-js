@@ -1,5 +1,5 @@
 {
-  "name": "configurablejs",
+  "name": "@whrrmydragons/configurable-js",
   "version": "1.0.0",
   "description": "a small library that makes sending and receiving data more configurable.",
   "main": "./lib/index.js",
