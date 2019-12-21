@@ -4,13 +4,15 @@
   "description": "a small library that makes sending and receiving data more configurable.",
   "main": "./lib/index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Need to add tests\""
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/whrrmydragons/configurable-js.git"
   },
-  "keywords": ["config"],
+  "keywords": [
+    "config"
+  ],
   "author": "Omri Haber <omrihaber@me.com>",
   "license": "ISC",
   "bugs": {
